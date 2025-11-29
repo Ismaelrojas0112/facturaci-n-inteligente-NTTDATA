@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "data": {
+    "cabecera": {
+      "tipo_documento": "BOLETA DE VENTA ELECTRÓNICA",
+      "serie_correlativo": "B001-000451",
+      "fecha_emision": "2025-11-29",
+      "moneda": "PEN"
+    },
+    "cliente": {
+      "nombre": "Luis Alberto Paredes",
+      "ruc": "10458923154",
+      "direccion": "-"
+    },
+    "items": [
+      {
+        "descripcion": "Zapatillas marca Nike modelo Air Force",
+        "cantidad": 3,
+        "precio_unitario": 350.00,
+        "subtotal": 1050.00
+      },
+      {
+        "descripcion": "Pares de medias deportivas",
+        "cantidad": 5,
+        "precio_unitario": 20.00,
+        "subtotal": 100.00
+      },
+      {
+        "descripcion": "Kit de limpieza de calzado",
+        "cantidad": 1,
+        "precio_unitario": 45.00,
+        "subtotal": 45.00
+      }
+    ],
+    "calculos": {
+      "op_gravada": 1195.00,
+      "igv_18": 215.10,
+      "importe_total": 1410.10
+    }
+  }
+}
